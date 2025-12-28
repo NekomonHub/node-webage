@@ -56,3 +56,10 @@ node nekodev.js <url>
 ```bash
 node nekodev.js https://google com
 ```
+
+# Credit Developer (Don't delete)
+- Nekodev
+- NekomonHub
+
+***node-webage***
+**© 2025/2026***
