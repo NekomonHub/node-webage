@@ -1,0 +1,31 @@
+{
+  "name": "node-webage",
+  "version": "1.0.0",
+  "description": "A tool used to detect the age of a website to show whether it is a phishing indicator or not.",
+  "keywords": [
+    "Scanner",
+    "WebAge",
+    "PhisScan",
+    "NekoDev"
+  ],
+  "homepage": "https://github.com/NekomonHub/node-webage#readme",
+  "bugs": {
+    "url": "https://github.com/NekomonHub/node-webage/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekomonHub/node-webage.git"
+  },
+  "license": "MIT",
+  "author": "Nekodev, NekomonHub, ChatGPT",
+  "type": "module",
+  "main": "nekodev.js",
+  "scripts": {
+    "test": "node nekodev.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.3.2",
+    "open": "^11.0.0"
+  }
+}
