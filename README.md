@@ -1,6 +1,18 @@
 
-## Explanation 
-*This tool is used for investigative purposes to help you detect the age of a website with the Phishing indication feature.*
+
+<h1 align="center">node-webage</h1>
+
+<p align="center">
+  This tool is used for investigative purposes to help you detect the age of a website with the Phishing indication feature
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-v20-green?logo=node.js" />
+  <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" />
+  <img src="https://img.shields.io/badge/Termux-Android-black?logo=android" />
+  <img src="https://img.shields.io/badge/npm-Package-red?logo=npm" />
+</p>
 
 ## How to Install and Use it?
 *You can install the package like this*
