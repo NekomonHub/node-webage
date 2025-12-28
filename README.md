@@ -5,6 +5,7 @@
 <p align="center">
   This tool is used for investigative purposes to help you detect the age of a website with the Phishing indication feature
 </p>
+<footer>Create by Nekodev - NekomonHub</footer>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" />
