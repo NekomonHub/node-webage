@@ -61,5 +61,6 @@ node nekodev.js https://google com
 - Nekodev
 - NekomonHub
 
-***node-webage***
-**© 2025/2026***
+***node-webage**
+<br>
+**© 2025/2026**
